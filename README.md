@@ -1,2 +1,2 @@
 # scriptspec
- cspec fork for javascript
+BDD in JavaScript, inspired by Rspec
